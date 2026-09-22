@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/alex/Diploma/CGNS/Parser/build",
+  "command": "/usr/bin/g++ -DCGNS_App_EXPORTS -DVERSION_INFO=\"\" -isystem /usr/include/python3.10 -isystem /usr/include/hdf5/serial -g -fPIC -fvisibility=hidden -o CMakeFiles/CGNS_App.dir/CPP2PY.cpp.o -c /home/alex/Diploma/CGNS/Parser/CPP2PY.cpp",
+  "file": "/home/alex/Diploma/CGNS/Parser/CPP2PY.cpp"
+}
+]

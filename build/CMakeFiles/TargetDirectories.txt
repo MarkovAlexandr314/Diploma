@@ -1,0 +1,3 @@
+/home/alex/Diploma/CGNS/Parser/build/CMakeFiles/CGNS_App.dir
+/home/alex/Diploma/CGNS/Parser/build/CMakeFiles/edit_cache.dir
+/home/alex/Diploma/CGNS/Parser/build/CMakeFiles/rebuild_cache.dir
