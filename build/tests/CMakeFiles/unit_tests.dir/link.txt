@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/unit_tests.dir/main_test.cpp.o -o unit_tests  -Wl,-rpath,/home/alex/micromamba/envs/ros_env/lib:/usr/local/lib ../src/libcgns_core.a /home/alex/micromamba/envs/ros_env/lib/libgtest_main.so.1.16.0 /usr/local/lib/libcgns.so /home/alex/micromamba/envs/ros_env/lib/libhdf5.so.320.2.0 /home/alex/micromamba/envs/ros_env/lib/libgtest.so.1.16.0
